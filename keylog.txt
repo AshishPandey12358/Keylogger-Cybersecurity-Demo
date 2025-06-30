@@ -1,0 +1,123 @@
+2025-06-05 15:39:35,779: Key Pressed: t
+2025-06-05 15:39:36,072: Key Pressed: h
+2025-06-05 15:39:36,566: Key Pressed: a
+2025-06-05 15:39:36,792: Key Pressed: n
+2025-06-05 15:39:36,991: Key Pressed: k
+2025-06-05 15:39:37,159: Special Key Pressed: Key.space
+2025-06-05 15:39:37,506: Key Pressed: y
+2025-06-05 15:39:37,695: Key Pressed: o
+2025-06-05 15:39:38,276: Key Pressed: u
+2025-06-05 15:39:38,483: Special Key Pressed: Key.space
+2025-06-05 15:39:38,680: Key Pressed: b
+2025-06-05 15:39:38,984: Key Pressed: h
+2025-06-05 15:39:39,213: Key Pressed: a
+2025-06-05 15:39:39,457: Key Pressed: i
+2025-06-05 15:39:39,660: Special Key Pressed: Key.space
+2025-06-05 15:39:45,246: Special Key Pressed: Key.enter
+2025-06-05 15:40:19,700: Key Pressed: h
+2025-06-05 15:40:19,898: Key Pressed: o
+2025-06-05 15:40:20,110: Key Pressed: w
+2025-06-05 15:40:20,274: Special Key Pressed: Key.space
+2025-06-05 15:40:20,530: Key Pressed: t
+2025-06-05 15:40:20,679: Key Pressed: o
+2025-06-05 15:40:20,876: Special Key Pressed: Key.space
+2025-06-05 15:40:21,467: Key Pressed: a
+2025-06-05 15:40:21,781: Key Pressed: d
+2025-06-05 15:40:21,962: Key Pressed: d
+2025-06-05 15:40:22,154: Special Key Pressed: Key.space
+2025-06-05 15:40:22,483: Key Pressed: p
+2025-06-05 15:40:22,738: Key Pressed: r
+2025-06-05 15:40:22,935: Key Pressed: o
+2025-06-05 15:40:23,197: Key Pressed: j
+2025-06-05 15:40:23,420: Key Pressed: e
+2025-06-05 15:40:23,675: Key Pressed: c
+2025-06-05 15:40:24,007: Key Pressed: t
+2025-06-05 15:40:24,201: Special Key Pressed: Key.space
+2025-06-05 15:40:24,442: Key Pressed: d
+2025-06-05 15:40:24,623: Key Pressed: e
+2025-06-05 15:40:24,877: Key Pressed: s
+2025-06-05 15:40:25,216: Key Pressed: c
+2025-06-05 15:40:25,452: Key Pressed: r
+2025-06-05 15:40:25,809: Key Pressed: i
+2025-06-05 15:40:26,068: Key Pressed: p
+2025-06-05 15:40:26,298: Key Pressed: t
+2025-06-05 15:40:26,542: Key Pressed: i
+2025-06-05 15:40:26,701: Key Pressed: o
+2025-06-05 15:40:26,913: Key Pressed: n
+2025-06-05 15:40:27,118: Special Key Pressed: Key.space
+2025-06-05 15:40:27,311: Key Pressed: o
+2025-06-05 15:40:27,521: Key Pressed: f
+2025-06-05 15:40:27,695: Special Key Pressed: Key.space
+2025-06-05 15:40:27,928: Key Pressed: t
+2025-06-05 15:40:28,132: Key Pressed: h
+2025-06-05 15:40:28,301: Key Pressed: i
+2025-06-05 15:40:28,540: Key Pressed: s
+2025-06-05 15:40:28,850: Special Key Pressed: Key.space
+2025-06-05 15:40:29,266: Key Pressed: p
+2025-06-05 15:40:29,497: Key Pressed: r
+2025-06-05 15:40:29,715: Key Pressed: o
+2025-06-05 15:40:29,975: Key Pressed: j
+2025-06-05 15:40:30,152: Key Pressed: e
+2025-06-05 15:40:30,489: Key Pressed: c
+2025-06-05 15:40:30,780: Key Pressed: t
+2025-06-05 15:40:30,989: Special Key Pressed: Key.space
+2025-06-05 15:40:31,258: Key Pressed: i
+2025-06-05 15:40:31,498: Key Pressed: n
+2025-06-05 15:40:31,706: Special Key Pressed: Key.space
+2025-06-05 15:40:31,962: Key Pressed: m
+2025-06-05 15:40:32,295: Key Pressed: y
+2025-06-05 15:40:32,496: Special Key Pressed: Key.space
+2025-06-05 15:40:32,806: Key Pressed: r
+2025-06-05 15:40:33,094: Key Pressed: e
+2025-06-05 15:40:33,427: Key Pressed: s
+2025-06-05 15:40:33,668: Key Pressed: u
+2025-06-05 15:40:33,901: Key Pressed: m
+2025-06-05 15:40:34,085: Key Pressed: e
+2025-06-05 15:40:34,311: Special Key Pressed: Key.enter
+2025-06-05 15:40:51,576: Key Pressed: h
+2025-06-05 15:40:52,036: Key Pressed: o
+2025-06-05 15:40:52,297: Key Pressed: w
+2025-06-05 15:40:52,644: Special Key Pressed: Key.space
+2025-06-05 15:40:53,037: Key Pressed: t
+2025-06-05 15:40:53,259: Key Pressed: o
+2025-06-05 15:40:53,512: Special Key Pressed: Key.space
+2025-06-05 15:40:53,715: Key Pressed: s
+2025-06-05 15:40:54,018: Key Pressed: t
+2025-06-05 15:40:54,300: Key Pressed: o
+2025-06-05 15:40:54,560: Key Pressed: p
+2025-06-05 15:40:54,819: Special Key Pressed: Key.space
+2025-06-05 15:40:55,230: Key Pressed: p
+2025-06-05 15:40:55,477: Key Pressed: r
+2025-06-05 15:40:55,738: Key Pressed: o
+2025-06-05 15:40:56,010: Key Pressed: g
+2025-06-05 15:40:56,268: Key Pressed: r
+2025-06-05 15:40:56,570: Key Pressed: a
+2025-06-05 15:40:56,839: Key Pressed: m
+2025-06-05 15:40:57,002: Key Pressed: m
+2025-06-05 15:40:57,192: Special Key Pressed: Key.space
+2025-06-05 15:40:57,489: Key Pressed: f
+2025-06-05 15:40:57,722: Key Pressed: r
+2025-06-05 15:40:57,936: Key Pressed: o
+2025-06-05 15:40:58,132: Key Pressed: m
+2025-06-05 15:40:58,346: Special Key Pressed: Key.space
+2025-06-05 15:40:58,756: Key Pressed: t
+2025-06-05 15:40:58,977: Key Pressed: r
+2025-06-05 15:40:59,294: Key Pressed: a
+2025-06-05 15:40:59,607: Key Pressed: c
+2025-06-05 15:40:59,859: Key Pressed: k
+2025-06-05 15:41:00,017: Key Pressed: k
+2025-06-05 15:41:00,205: Key Pressed: i
+2025-06-05 15:41:00,349: Key Pressed: n
+2025-06-05 15:41:00,545: Key Pressed: g
+2025-06-05 15:41:00,720: Special Key Pressed: Key.space
+2025-06-05 15:41:01,349: Key Pressed: k
+2025-06-05 15:41:01,574: Key Pressed: e
+2025-06-05 15:41:01,868: Key Pressed: t
+2025-06-05 15:41:02,343: Special Key Pressed: Key.backspace
+2025-06-05 15:41:02,538: Key Pressed: y
+2025-06-05 15:41:02,869: Special Key Pressed: Key.space
+2025-06-05 15:41:02,958: Key Pressed: l
+2025-06-05 15:41:03,210: Key Pressed: o
+2025-06-05 15:41:03,430: Key Pressed: g
+2025-06-05 15:41:03,690: Key Pressed: s
+2025-06-05 15:41:03,863: Special Key Pressed: Key.enter
